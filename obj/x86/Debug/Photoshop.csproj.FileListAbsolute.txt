@@ -1,0 +1,6 @@
+C:\Users\mike\source\repos\stepik1\bin\Debug\cat.jpg
+C:\Users\mike\source\repos\stepik1\bin\Debug\MyPhotoshop.exe
+C:\Users\mike\source\repos\stepik1\bin\Debug\MyPhotoshop.pdb
+C:\Users\mike\source\repos\stepik1\obj\x86\Debug\Photoshop.csprojAssemblyReference.cache
+C:\Users\mike\source\repos\stepik1\obj\x86\Debug\MyPhotoshop.exe
+C:\Users\mike\source\repos\stepik1\obj\x86\Debug\MyPhotoshop.pdb
